@@ -48,7 +48,7 @@
 	
 		///////////////////////////////////
 		//For Test
-		int i = 0;
+		//int i = 0;
 		/* Create the ePayLink Client Object */
 		/* Create the ePayLink Client Object */
 		ePayLinkClient eplc = new ePayLinkClient();
@@ -86,7 +86,7 @@
 		{
 		/* Define the parameters for the transaction */
 		String paymentType = new String("cc");
-		String referenceNo = new String("00000000000100");
+		String referenceNo = new String("FA000000000302");
 		String amount = new String("100");
 		String locale = new String("zh");
 		String currCode = new String("344");
