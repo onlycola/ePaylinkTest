@@ -48,7 +48,7 @@
 	
 		///////////////////////////////////
 		//For Test
-		
+		int i = 0;
 		/* Create the ePayLink Client Object */
 		/* Create the ePayLink Client Object */
 		ePayLinkClient eplc = new ePayLinkClient();
