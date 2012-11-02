@@ -86,7 +86,7 @@
 		{
 		/* Define the parameters for the transaction */
 		String paymentType = new String("cc");
-		String referenceNo = new String("FA000000000303");
+		String referenceNo = new String("FA100000000303");
 		String amount = new String("100");
 		String locale = new String("zh");
 		String currCode = new String("344");
